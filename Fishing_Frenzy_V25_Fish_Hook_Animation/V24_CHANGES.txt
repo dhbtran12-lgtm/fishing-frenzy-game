@@ -1,1 +1,0 @@
-V24: Portrait fish now swim horizontally back and forth within separate lanes; touch targets track their animated positions. Laptop and server unchanged.

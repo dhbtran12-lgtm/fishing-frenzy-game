@@ -1,1 +1,0 @@
-V25: Mobile portrait 40 moving creatures (5 lanes x 8 rows), independent back-and-forth swimming, animated hook line to exact tapped creature and tracking while it moves. Desktop keeps 52 fish.
