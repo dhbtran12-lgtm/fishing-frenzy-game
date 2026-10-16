@@ -1,0 +1,6 @@
+Fishing Frenzy V26
+- Cooldowns: Break Line 5s, Tangle 5s, Escape 5s, Secure 10s.
+- Cooldown countdown on player skill buttons, server enforced.
+- Secure protection lasts 10s; Tangle interference lasts 7s.
+- Faster moving fish and stronger visible Tangle effects.
+- Keeps the fish-targeted fishing line animation.
